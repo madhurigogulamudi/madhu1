@@ -10,3 +10,5 @@ This is morning batch
 hello
 
 hi everyone
+
+This is for squash
